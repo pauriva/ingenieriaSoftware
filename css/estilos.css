@@ -237,6 +237,7 @@ font-weight: 300;
   .text-white-footer{
     padding-right: 200px;
     text-align: center;
+    padding-right: 200px; 
   }
 
   .textos-questions{
@@ -247,14 +248,15 @@ font-weight: 300;
     max-width: 1000px;
     margin: auto;
     overflow: hidden;
+   
 }
 .content-results{
     width: 40%;
     height: 300px;
     display: flex;
     align-items: baseline;
-  
     padding: 20px;
+   
 }
 
 .questions-contenedor>img{
@@ -263,6 +265,7 @@ font-weight: 300;
 }
 
 #section {
+  padding-top: 70px;
   padding-left: 250px;
   padding-bottom:200px;
   display: inline-flex;
