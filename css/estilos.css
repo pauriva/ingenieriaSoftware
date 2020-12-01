@@ -265,6 +265,7 @@ font-weight: 300;
 }
 
 #section {
+  padding-top: 70px;
   padding-left: 250px;
   padding-bottom:200px;
   display: inline-flex;
